@@ -1,0 +1,1 @@
+{"version":3,"file":"taskStats.d.ts","sourceRoot":"","sources":["../../../src/generated/types/taskStats.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAEjE,MAAM,WAAW,SAAS;IACxB,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,MAAM,CAAC;IAClB,OAAO,EAAE,MAAM,CAAC;IAChB,UAAU,EAAE,mBAAmB,CAAC;IAChC,OAAO,EAAE,MAAM,CAAC;CACjB"}
